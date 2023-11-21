@@ -1,0 +1,11 @@
+<!-- logo_sederhana.xml -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="50dp"
+    android:height="60dp"
+    android:viewportWidth="100.0"
+    android:viewportHeight="100.0">
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M50,10 L80,80 L20,80 Z" />
+
+</vector>
